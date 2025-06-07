@@ -16,3 +16,7 @@ This project focuses on creating a predictive machine learning model using Pytho
 
 ##OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/26280661-9da9-4850-a51c-d37570a5bea5)
+
+
+![Image](https://github.com/user-attachments/assets/bd092c5f-7ecf-4a87-b9e0-5915cb93374d)
